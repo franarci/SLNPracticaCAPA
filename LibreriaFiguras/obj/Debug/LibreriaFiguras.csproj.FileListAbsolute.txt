@@ -1,0 +1,6 @@
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNFiguras\LibreriaFiguras\bin\Debug\LibreriaFiguras.dll
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNFiguras\LibreriaFiguras\bin\Debug\LibreriaFiguras.pdb
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.csprojAssemblyReference.cache
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.dll
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNFiguras\LibreriaFiguras\obj\Debug\LibreriaFiguras.pdb
